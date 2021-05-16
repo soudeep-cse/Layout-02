@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+}
+
+/*Start header section*/
+
+.head {
+    background-color: brown;
+    height: 100px;
+}
+
+.head h1 {
+    text-align: center;
+    color: green;
+}
+
+/* End header section */
+
+/* --------------------------------------- */
+
+/* Start Navigation-Menu section */
+
+.nav-menu {
+    background-color: rosybrown;
+    height: 100px;
+}
+
+.nav-menu h1 {
+    text-align: center;
+    color: green;
+}
+
+/* End Navigation-Menu section */
+
+/* -------------------------------------- */
+
+/* Start content section */
+
+.content {
+    overflow: hidden;
+}
+
+.left-content {
+    background-color: royalblue;
+    height: 300px;
+    width: 20%;
+    float: left;
+}
+
+.left-content h1 {
+    color: green;
+    text-align: center;
+}
+
+.middle-content {
+    background-color: hotpink;
+    height: 300px;
+    width: 60%;
+    float: left;
+}
+
+.middle-content h1 {
+    color: green;
+    text-align: center;
+}
+
+.right-content {
+    background-color: gold;
+    height: 300px;
+    width: 20%;
+    float: left;
+}
+
+.right-content h1 {
+    color: green;
+    text-align: center;
+}
+
+/* End content section */
+
+/* -------------------------------- */
+
+/* Start Footer section */
+
+.footer{
+    background-color: indigo;
+    height: 100px;
+}
+
+.footer h1{
+text-align: center;
+color: green;
+}
+
+/* End Footer section */
